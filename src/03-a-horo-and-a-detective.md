@@ -5,7 +5,6 @@ date: 2021-04-24
 tags: [ 叶琴玉, 白钟直斗, Kuma ]
 ---
 
-<div id="novel-content">
 <h3>## 出现了</h3>
 <p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX</b>
 
@@ -219,9 +218,8 @@ Kuma 出现了，在二人提出回去的请求后，Kuma 立刻满足了她们�
 
 叶琴玉彻底蒙了，Minoko 到底要干什么？
 
-<br>
-</div>
-<hr>
+------
+
 白钟直斗 / 叶琴玉 第一篇章 (总第三章) 结束
 
 <b>待续……</b>

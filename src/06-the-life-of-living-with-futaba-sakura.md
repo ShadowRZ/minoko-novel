@@ -5,7 +5,6 @@ description: "佐仓双叶 / Minoko 第二篇章 (总第六章)"
 tags: [ "佐仓双叶", "Minoko" ]
 ---
 
-<div id="novel-content">
 <p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX+1 15:30</b>
 <br/>
 “愿望实现的感觉怎么样，Minoko？”
@@ -258,9 +257,8 @@ Minoko 对此十分坚定。
 
 就这样，Minoko 被佐仓双叶观测的微妙的生活正式开始了。
 
-<br>
-</div>
-<hr />
+---
+
 佐仓双叶 / Minoko 第二篇章 (总第六章) 结束
 
 <b>待续……</b>

@@ -1,2 +1,5 @@
+- remove <div>
+- remove <b>
 - fix subtitle
 - fix headline
+- use sub headline

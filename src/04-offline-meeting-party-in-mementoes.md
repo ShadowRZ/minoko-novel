@@ -8,7 +8,6 @@ references:
     url: 'https://tv.cctv.com/2013/03/03/VIDE1362274211471821.shtml'
 ---
 
-<div id="novel-content">
 “北京时间  十五点整。”
 
 这是异世界导航启动前 Minoko 和佐仓双叶听到的最后一段声音。
@@ -297,9 +296,8 @@ AlynxZhou 根本就不敢乱动，因为他怕在印象空间碰到自己 Shadow
 
 众人异口同声的说。
 
-<br>
-</div>
-<hr>
+------
+
 印象空间 第一篇章 (总第四章) 结束
 
 <b>待续……</b>

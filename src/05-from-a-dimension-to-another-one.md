@@ -8,7 +8,6 @@ references:
     url: 'https://showmethekey.alynx.one'
 ---
 
-<div id="novel-content">
 <h3>## 离开异空间后</h3>
 <p style="text-indent: 0"><b>-> 2XXX-XX-XX+1 15:30</b>
 
@@ -219,9 +218,8 @@ AZ 着急地起来做饭，吃饭。
 
 知道这段记忆不正常吗？？
 
-<br>
-</div>
-<hr />
+------
+
 结城理 / AlynxZhou 第二篇章 (总第五章) 结束
 
 <b>待续……</b>

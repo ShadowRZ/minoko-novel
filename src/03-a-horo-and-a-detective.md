@@ -3,6 +3,7 @@ title: "[#03] 一只萌狼，一位侦探"
 subtitle: 白钟直斗 / 叶琴玉 第一篇章 (总第三章)
 date: 2021-04-24
 tags: [ 叶琴玉, 白钟直斗, Kuma ]
+paragraph: { indent: 2.5 }
 ---
 
 <h3>## 出现了</h3>

@@ -1,11 +1,11 @@
 ---
 title: "[#08] 协助与被协助的踪迹追寻"
+subtitle: 山岸风花 / 莫洛洛 第一篇章 (总第八章)
 date: 2021-09-22
-description: "山岸风花 / 莫洛洛 第一篇章 (总第八章)"
-tags: [ "莫洛洛", "山岸风花" ]
+tags: [ 莫洛洛, 山岸风花 ]
+paragraph: { indent: 2.5 }
 ---
 
-<div id="novel-content">
 <p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX 10:00</b>
 
 莫洛洛一下子把笔记本电脑合上。

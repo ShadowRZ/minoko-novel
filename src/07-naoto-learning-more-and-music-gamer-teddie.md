@@ -1,8 +1,9 @@
 ---
 title: "[#07] 了解更多的白钟直斗与玩音游的 Kuma"
+subtitle: 白钟直斗 / 叶琴玉 第二篇章 (总第七章)
 date: 2021-09-21
-description: "白钟直斗 / 叶琴玉 第二篇章 (总第七章)"
-tags: [ "叶琴玉", "白钟直斗", "Kuma" ]
+tags: [ 叶琴玉, 白钟直斗, Kuma ]
+paragraph: { indent: 2.5 }
 ---
 
 <p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX+1 15:30</b>

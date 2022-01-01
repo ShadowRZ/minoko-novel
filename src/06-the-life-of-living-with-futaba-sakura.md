@@ -1,8 +1,9 @@
 ---
-title: '[#06] 与佐仓双叶相伴的生活'
+title: "[#06] 与佐仓双叶相伴的生活"
+subtitle: 佐仓双叶 / Minoko 第二篇章 (总第六章)
 date: 2021-07-31
-description: "佐仓双叶 / Minoko 第二篇章 (总第六章)"
-tags: [ "佐仓双叶", "Minoko" ]
+tags: [ 佐仓双叶, Minoko ]
+paragraph: { indent: 2.5 }
 ---
 
 <p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX+1 15:30</b>

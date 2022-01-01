@@ -1,8 +1,9 @@
 ---
-title: '[#05] 从一个异空间到另一个异空间'
+title: "[#05] 从一个异空间到另一个异空间"
+subtitle: 结城理 / AlynxZhou 第二篇章 (总第五章)
 date: 2021-05-17
-description: "结城理 / AlynxZhou 第二篇章 (总第五章)"
-tags: [ "结城理", "AlynxZhou" ]
+tags: [ 结城理, AlynxZhou ]
+paragraph: { indent: 2.5 }
 references:
   - title: 'AlynxZhou 的项目：Show Me The Key'
     url: 'https://showmethekey.alynx.one'

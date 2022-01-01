@@ -244,23 +244,18 @@ AZ 又去聊天了。
 
 然而三分钟后却有一条回复引起了 AZ 的注意：
 
-```
+``` plaintext
 [Minoko] @AlynxZhou ？
 ```
 
 他感到有点意外，于是回复：
 
-```
+``` plaintext
 [AlynxZhou] @Minoko 哪里不对？
 [Minoko] @AlynxZhou 是结城理吧？
 [AlynxZhou] @Minoko 结城理怎么了？
 [Minoko] @AlynxZhou 等我发封邮件你就知道了。
 ```
-
-    [AlynxZhou] @Minoko 哪里不对？
-    [Minoko] @AlynxZhou 是结城理吧？
-    [AlynxZhou] @Minoko 结城理怎么了？
-    [Minoko] @AlynxZhou 等我发封邮件你就知道了。
 
 AZ 的手机出来一条邮件消息，提示是一封重要邮件，标题写着：“我有些事情需要你们的协助”
 

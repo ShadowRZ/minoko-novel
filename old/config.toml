@@ -1,0 +1,81 @@
+baseurl = "https://shadowrz.gitlab.io/minoko-novel/"
+languageCode = "zh-cn"
+theme = "diary"
+paginate = 10
+title = "Minoko Novel"
+subtitle = "Arch Linux CN x Persona Series"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+DefaultContentLanguage = "zh"
+hasCJKLanguage = true
+uglyurls = true
+disablePathToLower = true
+disableKinds = ['taxonomy', 'term']
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[permalinks]
+posts = "/posts/:filename"
+
+[outputs]
+home = [ "HTML", "RSS" ]
+
+[params]
+mainSections = [ "posts" ]
+dateFormat = "2006-01-02"
+env = "production"
+title = "Minoko Novel"
+subtitle = "Arch Linux CN x Persona Series"
+description = "Arch Linux CN x Persona Series"
+author = "夜坂雅"
+# Twikoo
+enableTwikoo = true
+twikooEnvId = "https://minoko-novel-twikoo.vercel.app"
+# Metadata
+mainfest = "/minoko-novel/site.webmainfest"
+favicon = "/minoko-novel/favicon.ico"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "perldoc"
+    tabWidth = 4
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
+
+[[menu.main]]
+url = "https://gitlab.com/ShadowRZ/minoko-novel/-/wikis/home"
+name = "Wiki"
+weight = 0

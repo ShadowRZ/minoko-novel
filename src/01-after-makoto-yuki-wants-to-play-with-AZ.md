@@ -4,7 +4,7 @@ subtitle: 结城理 / AlynxZhou 第一篇章 (总第一章)
 date: 2021-03-29
 description: "结城理 / AlynxZhou 第一篇章 (总第一章)"
 tags: [ "结城理", "AlynxZhou" ]
-paragraph: { indent: }
+paragraph: { indent: 2.5 }
 ---
 
 ## ## 生活混乱的序幕

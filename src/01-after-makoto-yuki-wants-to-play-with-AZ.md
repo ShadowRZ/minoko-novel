@@ -3,7 +3,6 @@ title: "[#01] 结城理想和 AZ 一起生活后"
 date: 2021-03-29
 description: "结城理 / AlynxZhou 第一篇章 (总第一章)"
 tags: [ "结城理", "AlynxZhou" ]
-newline: preserve
 paragraph: { indent: }
 ---
 

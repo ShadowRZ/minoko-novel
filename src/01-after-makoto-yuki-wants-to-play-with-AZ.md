@@ -244,13 +244,13 @@ AZ 又去聊天了。
 
 然而三分钟后却有一条回复引起了 AZ 的注意：
 
-<pre style="text-indent: 2.5; color: gray;">
+<pre style="text-indent: 2.5rem; color: gray;">
 [Minoko] @AlynxZhou ？
 </pre>
 
 他感到有点意外，于是回复：
 
-<pre style="text-indent: 2.5; color: gray;">
+<pre style="text-indent: 2.5rem; color: gray;">
 [AlynxZhou] @Minoko 哪里不对？
 [Minoko] @AlynxZhou 是结城理吧？
 [AlynxZhou] @Minoko 结城理怎么了？

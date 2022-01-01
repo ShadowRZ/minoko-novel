@@ -1,10 +1,6 @@
 ---
 title: 关于
 date: 2021-04-23 13:50:38
-menu:
-    main:
-        name: About
-        weight: 4
 ---
 
 ## 整体概述

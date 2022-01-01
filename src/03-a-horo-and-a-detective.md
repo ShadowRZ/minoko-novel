@@ -6,7 +6,8 @@ tags: [ 叶琴玉, 白钟直斗, Kuma ]
 paragraph: { indent: 2.5 }
 ---
 
-<h3>## 出现了</h3>
+## ## 出现了
+
 <p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX</b>
 
 萌狼家里新装了一台落地电视。
@@ -80,7 +81,8 @@ paragraph: { indent: 2.5 }
 
 ……萌狼已经无法思考了。
 
-<h3>## 掉进电视里了</h3>
+## ## 掉进电视里了
+
 <p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX 10:35</b>
 
 萌狼摔在一个平面上。
@@ -146,7 +148,8 @@ Kuma 在催叶琴玉回去。
 
 白钟直斗则是直接钻了进去，毫不犹豫。
 
-<h3>## 奇怪了</h3>
+## ## 奇怪了
+
 <p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX 11:00</b>
 
 叶琴玉终于回到了原本的世界。

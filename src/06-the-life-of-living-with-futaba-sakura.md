@@ -7,7 +7,9 @@ paragraph: { indent: 2.5 }
 ---
 
 <p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX+1 15:30</b>
+
 <br/>
+
 “愿望实现的感觉怎么样，Minoko？”
 
 “好极了，双叶！”

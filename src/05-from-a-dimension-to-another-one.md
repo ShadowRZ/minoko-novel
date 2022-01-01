@@ -9,7 +9,8 @@ references:
     url: 'https://showmethekey.alynx.one'
 ---
 
-<h3>## 离开异空间后</h3>
+## ## 离开异空间后
+
 <p style="text-indent: 0"><b>-> 2XXX-XX-XX+1 15:30</b>
 
 AlynxZhou 和结城理又回到了他们进入印象空间的地点——AZ 的家。
@@ -108,7 +109,8 @@ AZ 又回到电脑前，这时他才发现中单光一的直播都结束了，�
 
 他根本不知道，当 GNOME Shell 上的时间指向零点时，自己将经历怎样的场景。
 
-<h3>## 又进入了另一个异空间</h3>
+## ## 又进入了另一个异空间
+
 <p style="text-indent: 0"><b>-> 2XXX-XX-XX+1 ??:??</b>
 
 电脑黑屏。

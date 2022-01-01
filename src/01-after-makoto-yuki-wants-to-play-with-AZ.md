@@ -247,10 +247,6 @@ AZ 又去聊天了。
 
 > [Minoko] @AlynxZhou ？
 
-<blockquote>
-[Minoko] @AlynxZhou ？
-</blockquote>
-
 他感到有点意外，于是回复：
 
 > [AlynxZhou] @Minoko 哪里不对？
@@ -260,16 +256,6 @@ AZ 又去聊天了。
 > [AlynxZhou] @Minoko 结城理怎么了？
 >
 > [Minoko] @AlynxZhou 等我发封邮件你就知道了。
-
-<blockquote>
-[AlynxZhou] @Minoko 哪里不对？
-
-[Minoko] @AlynxZhou 是结城理吧？
-
-[AlynxZhou] @Minoko 结城理怎么了？
-
-[Minoko] @AlynxZhou 等我发封邮件你就知道了。
-</blockquote>
 
 AZ 的手机出来一条邮件消息，提示是一封重要邮件，标题写着：“我有些事情需要你们的协助”
 

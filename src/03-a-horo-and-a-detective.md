@@ -8,7 +8,7 @@ paragraph: { indent: 2.5 }
 
 ## ## 出现了
 
-<p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX</b>
+### -> 2XXX-XX-XX
 
 萌狼家里新装了一台落地电视。
 
@@ -83,7 +83,7 @@ paragraph: { indent: 2.5 }
 
 ## ## 掉进电视里了
 
-<p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX 10:35</b>
+### -> 2XXX-XX-XX 10:35
 
 萌狼摔在一个平面上。
 
@@ -150,7 +150,7 @@ Kuma 在催叶琴玉回去。
 
 ## ## 奇怪了
 
-<p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX 11:00</b>
+### -> 2XXX-XX-XX 11:00
 
 叶琴玉终于回到了原本的世界。
 
@@ -198,7 +198,7 @@ Kuma 在催叶琴玉回去。
 
 Kuma 出现了，在二人提出回去的请求后，Kuma 立刻满足了她们。
 
-<p style="text-indent: 0"><b>-&gt; 2XXX-XX-XX+1</b>
+### -> 2XXX-XX-XX+1
 
 经过昨天下午以及今天的一段时间后，叶琴玉和白钟直斗的关系逐渐变好。
 

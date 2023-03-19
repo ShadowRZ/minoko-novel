@@ -3,6 +3,19 @@
   "subtitle": "Arch Linux CN x Persona Series",
   "version": "0.0.1",
   "authors": ["夜坂雅"],
-  "date": "2021",
-  "src": "src"
+  "year": "2021",
+  "src": "src",
+  "contents": [
+    "00.2-preface.md",
+    "01-after-makoto-yuki-wants-to-play-with-AZ.md",
+    "02-depressed-minoko-and-wanna-been-futaba-sakura.md",
+    "03-a-horo-and-a-detective.md",
+    "04-offline-meeting-party-in-mementoes.md",
+    "05-from-a-dimension-to-another-one.md",
+    "06-the-life-of-living-with-futaba-sakura.md",
+    "07-naoto-learning-more-and-music-gamer-teddie.md",
+    "08-searching-with-assistance.md",
+    "09-meownika-s-present-and-existence.md",
+    "10-a-simple-conversation.md"
+  ]
 }
